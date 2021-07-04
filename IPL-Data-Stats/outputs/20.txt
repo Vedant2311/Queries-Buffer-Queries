@@ -1,0 +1,14 @@
+ player_name  
+--------------
+ PA Patel
+ V Sehwag
+ AC Gilchrist
+ G Gambhir
+ DA Warner
+ DR Smith
+ M Vijay
+ BB McCullum
+ JD Ryder
+ RV Uthappa
+(10 rows)
+

@@ -1,0 +1,12 @@
+          team_name          | avg_runs 
+-----------------------------+----------
+ Chennai Super Kings         |   152.06
+ Deccan Chargers             |   140.25
+ Delhi Daredevils            |   144.86
+ Kings XI Punjab             |   153.93
+ Kolkata Knight Riders       |   141.29
+ Mumbai Indians              |   159.50
+ Rajasthan Royals            |   148.00
+ Royal Challengers Bangalore |   142.00
+(8 rows)
+

@@ -1,0 +1,17 @@
+    bowling_category    | player_name  | batting_average 
+------------------------+--------------+-----------------
+ Left-arm fast          | MA Starc     |            8.73
+ Left-arm fast-medium   | JP Faulkner  |           12.13
+ Left-arm medium        | PJ Sangwan   |            2.44
+ Left-arm medium-fast   | IK Pathan    |           14.04
+ Legbreak               | PP Chawla    |            8.02
+ Legbreak googly        | KV Sharma    |            9.57
+ Right-arm fast         | AD Russell   |           22.96
+ Right-arm fast-medium  | SR Watson    |           27.99
+ Right-arm medium       | DR Smith     |           27.87
+ Right-arm medium-fast  | KA Pollard   |           20.41
+ Right-arm offbreak     | SK Raina     |           28.66
+ Slow left-arm chinaman | GB Hogg      |            5.50
+ Slow left-arm orthodox | Yuvraj Singh |           22.24
+(13 rows)
+

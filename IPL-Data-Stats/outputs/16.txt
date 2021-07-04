@@ -1,0 +1,10 @@
+       team_name       
+-----------------------
+ Delhi Daredevils
+ Kings XI Punjab
+ Kolkata Knight Riders
+ Rajasthan Royals
+ Chennai Super Kings
+ Mumbai Indians
+(6 rows)
+

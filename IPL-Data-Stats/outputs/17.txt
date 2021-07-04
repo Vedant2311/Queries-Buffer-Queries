@@ -1,0 +1,17 @@
+          team_name          | player_name  | count 
+-----------------------------+--------------+-------
+ Chennai Super Kings         | SK Raina     |    12
+ Deccan Chargers             | AC Gilchrist |     4
+ Delhi Daredevils            | V Sehwag     |    10
+ Gujarat Lions               | AJ Finch     |     3
+ Kings XI Punjab             | SE Marsh     |     9
+ Kochi Tuskers Kerala        | BB McCullum  |     2
+ Kolkata Knight Riders       | G Gambhir    |     9
+ Mumbai Indians              | RG Sharma    |    10
+ Pune Warriors               | R Sharma     |     2
+ Rajasthan Royals            | AM Rahane    |    10
+ Rising Pune Supergiants     | AB Dinda     |     2
+ Royal Challengers Bangalore | CH Gayle     |    16
+ Sunrisers Hyderabad         | DA Warner    |     9
+(13 rows)
+

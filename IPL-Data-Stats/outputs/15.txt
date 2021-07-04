@@ -1,0 +1,13 @@
+ season_year | top_batsman  | max_runs | top_bowler  | max_wickets 
+-------------+--------------+----------+-------------+-------------
+        2008 | G Gambhir    |      534 | SK Warne    |          19
+        2009 | AC Gilchrist |      495 | A Kumble    |          21
+        2010 | JH Kallis    |      572 | A Kumble    |          17
+        2011 | V Kohli      |      557 | MM Patel    |          22
+        2012 | G Gambhir    |      590 | SP Narine   |          24
+        2013 | CH Gayle     |      708 | JP Faulkner |          28
+        2014 | DR Smith     |      566 | SP Narine   |          21
+        2015 | AM Rahane    |      540 | SL Malinga  |          24
+        2016 | DA Warner    |      848 | YS Chahal   |          21
+(9 rows)
+

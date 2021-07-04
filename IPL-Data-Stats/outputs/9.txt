@@ -1,0 +1,7 @@
+       team_name       |     opponent_team_name      | number_of_sixes 
+-----------------------+-----------------------------+-----------------
+ Chennai Super Kings   | Kings XI Punjab             |              16
+ Kings XI Punjab       | Rajasthan Royals            |              14
+ Kolkata Knight Riders | Royal Challengers Bangalore |              14
+(3 rows)
+

@@ -1,0 +1,7 @@
+ match_id |      team_1_name      |     team_2_name     |   match_winner_name   | number_of_boundaries 
+----------+-----------------------+---------------------+-----------------------+----------------------
+   733998 | Delhi Daredevils      | Sunrisers Hyderabad | Sunrisers Hyderabad   |                    4
+   501250 | Kolkata Knight Riders | Chennai Super Kings | Kolkata Knight Riders |                    7
+   336030 | Kolkata Knight Riders | Chennai Super Kings | Chennai Super Kings   |                    8
+(3 rows)
+

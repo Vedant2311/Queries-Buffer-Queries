@@ -1,0 +1,31 @@
+ season_year | match_id |      team_name      
+-------------+----------+---------------------
+        2008 |   335994 | Chennai Super Kings
+        2008 |   336018 | Chennai Super Kings
+        2008 |   336044 | Chennai Super Kings
+        2009 |   392219 | Chennai Super Kings
+        2009 |   392193 | Deccan Chargers
+        2009 |   392194 | Delhi Daredevils
+        2010 |   419142 | Chennai Super Kings
+        2010 |   419158 | Chennai Super Kings
+        2010 |   419164 | Chennai Super Kings
+        2011 |   501245 | Chennai Super Kings
+        2011 |   501258 | Chennai Super Kings
+        2011 |   501276 | Chennai Super Kings
+        2012 |   548347 | Delhi Daredevils
+        2012 |   548335 | Chennai Super Kings
+        2012 |   548353 | Deccan Chargers
+        2013 |   598012 | Chennai Super Kings
+        2013 |   598031 | Chennai Super Kings
+        2013 |   598056 | Chennai Super Kings
+        2014 |   729294 | Delhi Daredevils
+        2014 |   729288 | Kings XI Punjab
+        2014 |   729296 | Kings XI Punjab
+        2015 |   829716 | Chennai Super Kings
+        2015 |   829730 | Delhi Daredevils
+        2015 |   829736 | Delhi Daredevils
+        2016 |   980926 | Delhi Daredevils
+        2016 |   980956 | Delhi Daredevils
+        2016 |   980950 | Gujarat Lions
+(27 rows)
+

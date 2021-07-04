@@ -1,0 +1,7 @@
+ country_name 
+--------------
+ Australia
+ India
+ India
+(3 rows)
+

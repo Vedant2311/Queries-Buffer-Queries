@@ -1,0 +1,30 @@
+   player_name   
+-----------------
+ AB de Villiers
+ AB Dinda
+ A Mishra
+ BB McCullum
+ DJ Bravo
+ DS Kulkarni
+ DW Steyn
+ G Gambhir
+ Harbhajan Singh
+ JA Morkel
+ KD Karthik
+ MK Pandey
+ MS Dhoni
+ PA Patel
+ P Kumar
+ PP Chawla
+ R Bhatia
+ RG Sharma
+ R Vinay Kumar
+ RV Uthappa
+ S Dhawan
+ SK Raina
+ V Kohli
+ WP Saha
+ YK Pathan
+ Z Khan
+(26 rows)
+

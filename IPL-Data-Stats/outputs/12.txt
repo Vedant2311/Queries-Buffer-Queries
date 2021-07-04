@@ -1,0 +1,5 @@
+ match_id | player_name |        team_name        | num_wickets | season_year 
+----------+-------------+-------------------------+-------------+-------------
+   980984 | A Zampa     | Rising Pune Supergiants |           6 |        2016
+(1 row)
+
