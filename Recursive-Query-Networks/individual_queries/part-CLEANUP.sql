@@ -1,0 +1,17 @@
+DROP VIEW all_paths;
+DROP VIEW all_cities_pairs;
+DROP VIEW all_month_days;
+DROP VIEW info_paths;
+DROP VIEW info_paths_interstate;
+DROP VIEW info_paths_delay;
+DROP VIEW info_paths_citations_both CASCADE;
+DROP VIEW info_paths_citations_asc CASCADE;
+DROP VIEW info_paths_citations_desc CASCADE;
+DROP VIEW info_paths_cited_126 CASCADE;
+DROP VIEW all_citations_authors CASCADE;
+DROP VIEW co_authors CASCADE;
+DROP VIEW total_citations CASCADE;
+DROP VIEW all_authors CASCADE;
+DROP VIEW all_citations CASCADE;
+DROP VIEW info_paths_collabs CASCADE;
+DROP VIEW info_paths_collabs_ang CASCADE;

@@ -1,0 +1,16 @@
+airportid,city,state,name
+1,Albuquerque,New Mexico,port1
+2,Mexico City,New Mexico,port1
+3,Dallas,Texas,dallas
+4,Houston,Texas,Texas International
+5,Austin,Texas,Texas Domestic
+6,New York City,New York,American airport
+7,New Jersey,New York,Spanish airport
+8,New anything,New York,random airport
+9,York city,New York,random airport
+10,Washington,Wasington DC,wport
+11,Chicago,California,chicago
+12,San Hose,California,hombre
+13,San Diego,California,diego
+14,San Francisco,California,francisco
+15,Baja California,California,En Mexico
